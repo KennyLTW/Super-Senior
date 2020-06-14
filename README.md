@@ -11,6 +11,10 @@ Group Member: Au Cxx Cxxxx </br>
               Lie Txx Wxx </br>
 </pre>
 
+</br>
+Development tool: Android Studio/Java
+</br>
+
 Technical: 
 <li>Android API</li>
 <li>Google Firebase</li>
