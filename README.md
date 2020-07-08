@@ -1,4 +1,4 @@
-# Super-Senior
+# Android Application: Super-Senior
 A Final Year Project about take care elderly daily life in Android application which studying in OUHK </br>
 
 Topic: “Elderly mobile life assistant for family members with extra peace of mind” --provide by Dr. Kelvin Kai Wing LEE
